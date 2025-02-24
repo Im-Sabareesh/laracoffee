@@ -1,6 +1,6 @@
 <?php
 
-echo "ARGOCD Test";
+echo "ARGOCD Test webhook";
 exit;
 
 use Illuminate\Contracts\Http\Kernel;
