@@ -1,5 +1,8 @@
 <?php
 
+echo "ARGOCD Test";
+exit;
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
